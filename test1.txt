@@ -1,3 +1,4 @@
 ﻿Git is a version control system.
 Git is useful free software.
 Now i have remote repo
+Git recommends branch. 
