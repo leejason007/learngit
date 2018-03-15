@@ -3,4 +3,5 @@ Git is useful free software.
 Now i have remote repo
 Git recommends branch. 
 Git cannot merges successfully with conflicts
+dev
 
